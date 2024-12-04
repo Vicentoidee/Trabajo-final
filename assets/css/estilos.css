@@ -5,7 +5,7 @@ body {
   padding: 1;
   margin: 1;
   text-align: center;
-  color: white;
+  color:green;
 }
 
 /* definimos en el body el grid-template-areas inicial que aplicara en mobile first   nav  barra de naveg🇦🇨ion aside seccion del filtro   main grilla de productos con paginador   footer pie de pagina   */
